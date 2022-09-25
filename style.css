@@ -1,0 +1,55 @@
+* {
+    h1 {
+        text-align: center;
+    }
+}
+
+th {
+    background-color: crimson;
+    color: black;
+    height: 30px;
+}
+
+td {
+    color: brown;
+}
+
+td:hover {
+    background-color: orange;
+}
+
+.btn1 {
+    background-color: grey;
+    height: 30px;
+    width: 100%;
+}
+
+.btn1:hover {
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: pink;
+    height: 30px;
+    width: 100%;
+}
+
+.btn2:hover {
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+.btn3 {
+    background-color: skyblue;
+    margin: 20px 0px 0px 50%;
+    height: 40px;
+    width: 100px;
+}
+
+a {
+   color: black;
+   text-decoration: none;
+}
